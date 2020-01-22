@@ -11,9 +11,13 @@ Despite what the lawyers think, sometime it's just for learning. Or Devops. (Bla
 3. Some ```varargin```, ```nargouts```, and ```dbstop`` stuffs.
 4. Profit.
 
+## Caveats
+
+Do different stuffs for OOP things.
+
 ## Successes
 
-- Getting rid of the annoying licensing (aka, non-Devops working) for [NXP's Model-Based Design Toolbox](https://www.nxp.com/design/automotive-software-and-tools/model-based-design-toolbox:MC_TOOLBOX).
+- Licensing bits for [NXP's Model-Based Design Toolbox](https://www.nxp.com/design/automotive-software-and-tools/model-based-design-toolbox:MC_TOOLBOX) for DevOps bits.
 
 
 ## Legal

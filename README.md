@@ -22,6 +22,6 @@ Do different stuffs for OOP things.
 
 ## Legal
 
-If you read the fine print of where ever you got the .p file, you probably shouldn't do this:
+If you read the fine print of where ever you got the .p file, you probably shouldn't do this.
 
 ![](.notacop.jpg)
